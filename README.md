@@ -1,9 +1,10 @@
 # Python-Week-4-Assignment
 Program that reads a file and writes a modified version to a new file
+
 1. modify_text(text) function
 python
 def modify_text(text):
-    # Example modification: convert to uppercase
+ # Example modification: convert to uppercase
     return text.upper()
 This function takes a string (text) as input.
 
